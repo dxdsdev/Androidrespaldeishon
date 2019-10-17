@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">appFragments</string>
+    <string name="valbtnFragment1">Ir a Fragment 1</string>
+    <string name="valbtnFragment2">Ir Fragment 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valFragment1">Bienvenido al Fragment 1</string>
+    <string name="valSaludoFragment">Hola soy el Fragment 1 Seamos Amigos</string>
+    <string name="valFragment2">Hola Soy el Fragment 2 Seamos Amigos</string>
+</resources>
